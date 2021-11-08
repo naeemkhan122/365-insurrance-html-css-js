@@ -1,1 +1,1 @@
-# 365-insurrance-html-css-js
+# 365-Insurance-Html-Css-Js
